@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world! You are user number ${user_id}  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
